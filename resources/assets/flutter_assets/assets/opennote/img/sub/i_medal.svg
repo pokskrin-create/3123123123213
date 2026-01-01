@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.739" height="51.617" viewBox="0 0 40.739 51.617">
+  <g id="그룹_783" data-name="그룹 783" transform="translate(-56.511 -147)">
+    <g id="그룹_739" data-name="그룹 739" transform="translate(-282.041 -1111.498)">
+      <g id="그룹_738" data-name="그룹 738" transform="translate(340.845 1258.498)">
+        <g id="그룹_737" data-name="그룹 737" transform="translate(0 0)">
+          <path id="패스_1808" data-name="패스 1808" d="M374.828,1268.954l-3.2,5.294a15.757,15.757,0,0,0-4.422,1.62l-10.5-17.354,11.8-.016Z" transform="translate(-356.703 -1258.498)" fill="#dd8383"/>
+          <path id="패스_1809" data-name="패스 1809" d="M540.846,1258.514l-10.5,17.354a15.731,15.731,0,0,0-4.419-1.617q-.717-.148-1.455-.229a15.714,15.714,0,0,0-1.75-.1c-.419,0-.833.018-1.245.048a16.328,16.328,0,0,0-1.956.274l3.2-5.294,6.326-10.456Z" transform="translate(-504.598 -1258.498)" fill="#e88585"/>
+        </g>
+        <path id="패스_1810" data-name="패스 1810" d="M400.732,1429.552a17.249,17.249,0,1,1-20.72-16.9,17.588,17.588,0,0,1,2.119-.3c.447-.033.9-.053,1.349-.053a17.063,17.063,0,0,1,1.9.106c.534.058,1.058.141,1.577.248a17.063,17.063,0,0,1,4.788,1.752,17.283,17.283,0,0,1,8.99,15.149Z" transform="translate(-365.357 -1398.202)" fill="#e8d472"/>
+      </g>
+      <circle id="타원_134" data-name="타원 134" cx="13.914" cy="13.914" r="13.914" transform="translate(339.245 1289.746) rotate(-45)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.98"/>
+    </g>
+    <text id="at_McDonald_s" data-name="at McDonald&apos;s" transform="translate(72.5 182)" fill="#fff" font-size="10" font-family="NotoSansKR-Medium, Noto Sans KR" font-weight="500"><tspan x="0" y="0">상</tspan></text>
+  </g>
+</svg>

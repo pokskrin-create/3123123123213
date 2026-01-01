@@ -1,0 +1,20 @@
+<svg id="m_icon_04" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.067" height="37.766" viewBox="0 0 43.067 37.766">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_2186" data-name="사각형 2186" width="43.067" height="37.766" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_2800" data-name="그룹 2800" clip-path="url(#clip-path)">
+    <path id="패스_4297" data-name="패스 4297" d="M96.138,158.184h8.2a.508.508,0,0,1,.486.674l-.651,2.821-4.587,19.867a.9.9,0,0,1-.83.674H68.181a.519.519,0,0,1-.519-.674l4.431-19.192a.9.9,0,0,1,.83-.674H90.393Z" transform="translate(-61.774 -144.454)" fill="#f9984c"/>
+    <path id="패스_4298" data-name="패스 4298" d="M101.725,31.335H76.85L80.655,46.2a.882.882,0,0,1,.674-.357h0a.882.882,0,0,0-.674.357l3.225,12.6,22.186,7.586h1.093a.9.9,0,0,0,.83-.674l1.2-5.208h0Z" transform="translate(-70.18 -28.615)" fill="#91bae8"/>
+    <path id="패스_4299" data-name="패스 4299" d="M49.276,27.46H24.4L17.37,0H42.246l6.422,25.083Z" transform="translate(-15.863 0)" fill="#bfe2ff"/>
+    <path id="패스_4300" data-name="패스 4300" d="M37.178,181.546l-4.431-19.192a.9.9,0,0,0-.83-.674H14.448l-2.369-3.5H.5a.508.508,0,0,0-.486.674l.651,2.821,1.814,7.858,1.645,7.126,1.127,4.883a.9.9,0,0,0,.83.674H36.659a.519.519,0,0,0,.519-.674" transform="translate(0 -144.454)" fill="#ffc783"/>
+    <path id="패스_4301" data-name="패스 4301" d="M73.989,253.976H62.36l-.936-4.055H73.053Z" transform="translate(-56.093 -228.228)" fill="#7daedb"/>
+    <path id="패스_4302" data-name="패스 4302" d="M229.363,254.836H218.277a.71.71,0,1,1,0-1.42h11.086a.71.71,0,0,1,0,1.42" transform="translate(-198.683 -231.42)" fill="#fff"/>
+    <path id="패스_4303" data-name="패스 4303" d="M235.448,282.217h-7.763a.71.71,0,0,1,0-1.42h7.763a.71.71,0,0,1,0,1.42" transform="translate(-207.274 -256.424)" fill="#fff"/>
+    <path id="패스_4304" data-name="패스 4304" d="M106.853,44.874h0Z" transform="translate(-97.578 -40.979)" fill="#fff"/>
+    <path id="패스_4305" data-name="패스 4305" d="M110.993,38.111H99.382a.71.71,0,0,1,0-1.42h11.611a.71.71,0,1,1,0,1.42" transform="translate(-90.107 -33.506)" fill="#fff"/>
+    <path id="패스_4306" data-name="패스 4306" d="M142.7,70.832h0Z" transform="translate(-130.31 -64.684)" fill="#fff"/>
+    <path id="패스_4307" data-name="패스 4307" d="M141.206,64.07h-5.982a.71.71,0,0,1,0-1.42h5.982a.71.71,0,0,1,0,1.42" transform="translate(-122.838 -57.212)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,97 @@
+/* CHANGSHIN 메인 css */
+
+/* font */
+@font-face {
+	font-family: 'Pretendard-Regular';
+	font-style: normal;
+	font-weight: 300;
+	src: url('/opennote/font/Pretendard-Regular');
+	src: url('/opennote/font/Pretendard-Regular.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Pretendard-Medium';
+	font-style: normal;
+	font-weight: 300;
+	src: url('/opennote/font/Pretendard-Medium');
+	src: url('/opennote/font/Pretendard-Medium.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Pretendard-Bold';
+	font-style: normal;
+	font-weight: 300;
+	src: url('/opennote/font/Pretendard-Bold');
+	src: url('/opennote/font/Pretendard-Bold.woff') format('woff');
+}
+
+body {
+	font-family: 'Pretendard-Regular', 'Pretendard-Medium', 'Pretendard-Bold';
+}
+
+/* Main Profile */
+.main h2 {color: #222; margin-top: 10px; margin-bottom: 24px; font-weight: normal; font-size: 18px;}
+.main h2 > span{color: #4B50F0;}
+
+.wrap {padding: 20px 0px 30px;}
+.csg-wrap section:not(.csg-profile-area) {margin: 0px 16px;}
+.csg-wrap .item:not(.csg-profile) {border-radius: 10px; border: solid 1px #eeeeee;  box-shadow: 0 0 0 transparent; background-color: white;}
+.csg-main-left {width: 27%;}
+.csg-main-left a > img {margin-bottom: 5px;}
+.csg-main-right {width: 73%;}
+.csg-profile.item {background-color: #68a946; color: white; text-align: center; padding: 24px 36px;}
+.csg-profile.item span {font-weight: 600; font-size: 16px;}
+.csg-profile .profile-top {display: flex; align-items: center; gap: 14px;}
+.csg-profile .profile-top .pro_img {position: relative; width: 60px; height: 60px; border: 3px solid #fff; border-radius: 50%;}
+.csg-profile .profile-top .pro_img img{ width: 100%; height:100%; object-fit: cover; border-radius: 50%;}
+.csg-profile .profile-top strong {font-size: 18px; margin-right: 5px;}
+.csg-profile .profile-top label {font-size: 14px;}
+.csg-profile .profile-top .pro_area {text-align: left;}
+.csg-profile .profile-top .pro_area label::after {
+    content: '';
+    display: inline-block;
+    width: 1px;
+    margin: 0 10px;
+    height: 10px;
+    background-color: #ddd;
+    opacity: 50%;
+}
+.csg-profile .profile-top .pro_area label:last-child::after {content: none;}
+.csg-profile .profile-top .pro_area p {font-size: 14px; font-weight: normal; margin-bottom: 0px;}
+.csg-profile .profile-bottom {display: flex; margin-top: 20px; padding-top: 20px; border-top: 1px solid rgba(255, 255, 255, .2);}
+.csg-profile .profile-bottom div:not(:first-of-type) {border-left: solid 1px rgba(255, 255, 255, .2);}
+.csg-profile .profile-bottom div {width: calc(100% / 3);}
+.csg-profile .profile-bottom .pro_name span {font-size: 14px; font-weight: 600; margin-bottom: 10px;}
+.csg-profile .profile-bottom .pro_name p {font-size: 14px; margin-top: 8px; margin-bottom: 0px; font-weight: normal;}
+
+/* 나의 연차사용/나의 교육이수 */
+.csg-progress-area .item {padding: 24px 20px;}
+.csg-progress-area .csg-progress {height: 10px; border-radius: 25px; background-color: #e9ecef; margin-top: 10px;}
+.csg-progress-area .csg-progress-wrap:first-child {margin-bottom: 20px;}
+.csg-progress-area .csg-progress-title {display: flex; justify-content: space-between;}
+.csg-progress-area .csg-progress-title > div {display: flex;}
+.csg-progress-area .csg-progress-title > div a img {margin-top: 2px;}
+.csg-progress-area .csg-progress-title .item_ttl {font-size: 14px; font-weight: 600;}
+.csg-progress-area .csg-progress-title .right {float: right; color: #4B50F0; font-size: 15px; font-weight: 600;}
+.csg-progress-area .csg-progress-title .right2 {float: right; color: #00C8F5; font-size: 15px; font-weight: 600;}
+.csg-progress-area .csg-progress .csg-progress-bar{height: 10px; background: #4B50F0; border-radius: 25px;}
+.csg-progress-area .csg-progress .csg-progress-bar2{height: 10px; background: #00C8F5; border-radius: 25px;}
+
+/* 증명서신청/팀원동향/설문조사/공지사항 */
+.csg-sub-area {display: flex; flex-direction: row; gap: 11px; flex-wrap: wrap;}
+.csg-sub-area .sub-item {width: calc((100% - 22px) / 3); padding: 13px 14px !important; display: flex; flex-direction: column; flex-wrap: wrap; justify-content: center; align-items: center; min-height: 110px;}
+.csg-sub-area .sub-item img {padding: 8px;}
+.csg-sub-area .sub-item .item_sub_ttl {font-size: 13px; color: #222; font-weight: 600; text-align: center; display: inline-grid; align-items: center;}
+.csg-sub-area .sub-item .item_sub_count {text-align: center; font-size: 22px; color: black; font-weight: 600; margin-top: 8px;}
+
+/* 공지사항 */
+.csg-notice-area {padding: 24px 20px;}
+.csg-notice-area .section_ttl {font-size: 14px; color: #222; font-weight: 600; margin-bottom: 0px;}
+.csg-notice-area .tb_type1 {border-top: 1px solid #4B50F0;}
+.csg-notice-area table td {border-bottom: 1px solid #ddd; font-size: 14px; font-weight: normal;}
+.csg-notice-area table td.date {color: #999;  font-size: 12px;}
+
+@media all and (max-width: 1024px) {
+	.csg-main-left,
+	.csg-main-right {width: 100%;}
+}

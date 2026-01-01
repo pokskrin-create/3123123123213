@@ -1,0 +1,20 @@
+<svg id="m_icon_09" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31.181" height="44.938" viewBox="0 0 31.181 44.938">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_2216" data-name="사각형 2216" width="31.181" height="44.938" fill="none"/>
+    </clipPath>
+  </defs>
+  <path id="패스_4377" data-name="패스 4377" d="M5.982,95.416H0v43.528H30.936V95.416Z" transform="translate(0 -94.006)" fill="#bfe2ff"/>
+  <g id="그룹_2813" data-name="그룹 2813">
+    <g id="그룹_2812" data-name="그룹 2812" clip-path="url(#clip-path)">
+      <path id="패스_4378" data-name="패스 4378" d="M71.239,4.078a3.474,3.474,0,0,0,.046-.535,3.633,3.633,0,0,0-7.264,0,3.452,3.452,0,0,0,.046.535H57.477V9.484h20.35V4.078Z" transform="translate(-52.166)" fill="#ffc180"/>
+      <path id="패스_4379" data-name="패스 4379" d="M69.643,171.672a.767.767,0,0,0-.634-.282l-4.909.242.076,1.472,2.414-.119L60.2,177.309l-2.533-3.078a.769.769,0,0,0-.984-.167l-9.5,5.663.788,1.258,8.928-5.324,2.558,3.108a.769.769,0,0,0,1.021.144l7.17-4.855L66.9,176.5l1.447.428,1.427-4.588a.724.724,0,0,0-.128-.668" transform="translate(-42.831 -155.943)" fill="#4469a0"/>
+      <rect id="사각형_2212" data-name="사각형 2212" width="4.924" height="9.025" transform="translate(5.311 32.131)" fill="#8ec6b7"/>
+      <rect id="사각형_2213" data-name="사각형 2213" width="4.924" height="15.852" transform="translate(20.115 25.304)" fill="#638fc0"/>
+      <rect id="사각형_2214" data-name="사각형 2214" width="4.924" height="12.856" transform="translate(15.191 28.3)" fill="#ffc180"/>
+      <rect id="사각형_2215" data-name="사각형 2215" width="4.924" height="16.362" transform="translate(10.235 24.794)" fill="#ff765f"/>
+      <path id="패스_4380" data-name="패스 4380" d="M92.754,101.889H80.411a.369.369,0,1,1,0-.737H92.754a.369.369,0,1,1,0,.737" transform="translate(-72.638 -92.036)" fill="#f9984c"/>
+      <path id="패스_4381" data-name="패스 4381" d="M31.531,449.974H1.975a.738.738,0,1,1,0-1.475H31.531a.738.738,0,1,1,0,1.475" transform="translate(-1.106 -408.08)" fill="#638fc0"/>
+    </g>
+  </g>
+</svg>

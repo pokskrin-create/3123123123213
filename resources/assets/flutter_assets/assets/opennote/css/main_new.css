@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.wrapper-content {
+    height: calc(100vh - 70px); /* 헤더 제외한 높이 */
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);      /* 가로도 유동적 (선택사항) */
+    grid-template-rows: repeat(3, 1fr);         /* 세로를 3등분 */
+    gap: 10px;
+    height: 100%;                               /* 부모 높이 채움 */
+    width: 100%;
+}
+
+.ibox {
+    border: 1px solid #ddd;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.ibox-content {
+    flex: 1;
+    padding: 10px;
+    overflow: auto;
+}

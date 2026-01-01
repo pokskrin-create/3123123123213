@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="352" height="323" viewBox="0 0 352 323">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_1669" data-name="사각형 1669" width="352" height="245" rx="30" transform="translate(0.258 -0.14)" fill="#35c4fc"/>
+    </clipPath>
+    <filter id="사각형_1676" x="82" y="0" width="180" height="180" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="사각형_1681" x="137.563" y="49.24" width="68.445" height="98.562" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8.5" result="blur-2"/>
+      <feFlood flood-color="#35c4fc"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="사각형_1683" x="137.563" y="25.819" width="68.445" height="64.836" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8.5" result="blur-3"/>
+      <feFlood flood-color="#35c4fc"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="alert_blue" transform="translate(3199 -10302)">
+    <rect id="사각형_1667" data-name="사각형 1667" width="300" height="48" rx="24" transform="translate(-3176 10577)" fill="#35c4fc"/>
+    <rect id="사각형_1668" data-name="사각형 1668" width="350" height="245" rx="30" transform="translate(-3199 10361)" fill="#fff"/>
+    <g id="마스크_그룹_26" data-name="마스크 그룹 26" transform="translate(-3199.258 10361.14)" clip-path="url(#clip-path)">
+      <path id="패스_3254" data-name="패스 3254" d="M114.294,0A114.294,114.294,0,1,1,0,114.294,114.294,114.294,0,0,1,114.294,0Z" transform="translate(57.749 -86.623)" fill="#35c4fc" opacity="0.1"/>
+      <path id="패스_3255" data-name="패스 3255" d="M96.248,0A96.248,96.248,0,1,1,0,96.248,96.248,96.248,0,0,1,96.248,0Z" transform="translate(75.795 -68.577)" fill="#35c4fc" opacity="0.2"/>
+      <path id="패스_3256" data-name="패스 3256" d="M78.2,0A78.2,78.2,0,1,1,0,78.2,78.2,78.2,0,0,1,78.2,0Z" transform="translate(93.842 -50.53)" fill="#35c4fc" opacity="0.4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -3199, 10302)" filter="url(#사각형_1676)">
+      <rect id="사각형_1676-2" data-name="사각형 1676" width="120" height="120" rx="60" transform="translate(112 27)" fill="#35c4fc"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -3199, 10302)" filter="url(#사각형_1681)">
+      <rect id="사각형_1681-2" data-name="사각형 1681" width="17.445" height="47.562" transform="translate(163.06 74.74)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -3199, 10302)" filter="url(#사각형_1683)">
+      <rect id="사각형_1683-2" data-name="사각형 1683" width="17.445" height="13.836" transform="translate(163.06 51.32)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

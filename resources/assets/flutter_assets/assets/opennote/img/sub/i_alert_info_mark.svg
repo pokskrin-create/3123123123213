@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="180" viewBox="0 0 180 180">
+  <defs>
+    <filter id="사각형_1676" x="0" y="0" width="180" height="180" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="사각형_1681" x="55.563" y="49.24" width="68.445" height="98.562" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8.5" result="blur-2"/>
+      <feFlood flood-color="#35c4fc"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="사각형_1683" x="55.563" y="25.819" width="68.445" height="64.836" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8.5" result="blur-3"/>
+      <feFlood flood-color="#35c4fc"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="i_alert_info_mark" transform="translate(3117 -9844)">
+    <g transform="matrix(1, 0, 0, 1, -3117, 9844)" filter="url(#사각형_1676)">
+      <rect id="사각형_1676-2" data-name="사각형 1676" width="120" height="120" rx="60" transform="translate(30 27)" fill="#35c4fc"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -3117, 9844)" filter="url(#사각형_1681)">
+      <rect id="사각형_1681-2" data-name="사각형 1681" width="17.445" height="47.562" transform="translate(81.06 74.74)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -3117, 9844)" filter="url(#사각형_1683)">
+      <rect id="사각형_1683-2" data-name="사각형 1683" width="17.445" height="13.836" transform="translate(81.06 51.32)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.599" height="20.311" viewBox="0 0 21.599 20.311">
+  <g id="그룹_768" data-name="그룹 768" transform="translate(-299.5 -334.5)">
+    <g id="그룹_767" data-name="그룹 767" transform="translate(304.828 337.998)">
+      <g id="그룹_766" data-name="그룹 766" transform="translate(1.486 0)">
+        <path id="패스_1845" data-name="패스 1845" d="M324.093,347.6a8.372,8.372,0,0,0-5.294-7.786c-.145-.057-.292-.111-.441-.16,0,0-.008.018-.03.059a8.368,8.368,0,0,1-6.465,13.68h-2.044c-.008.076-.01.124-.01.124a8.34,8.34,0,0,0,5.917,2.451h8.368l-2.115-2.82A8.328,8.328,0,0,0,324.093,347.6Z" transform="translate(-309.808 -339.657)" fill="#e6e6e6" stroke="#bababa" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <circle id="타원_168" data-name="타원 168" cx="1.287" cy="1.287" r="1.287" transform="translate(4.506 4.083)" fill="#bababa"/>
+      <circle id="타원_169" data-name="타원 169" cx="1.287" cy="1.287" r="1.287" transform="translate(0 4.083)" fill="#bababa"/>
+    </g>
+    <path id="패스_1846" data-name="패스 1846" d="M308.368,335a8.359,8.359,0,0,0-6.253,13.916L300,351.736h8.368a8.368,8.368,0,0,0,0-16.736Z" fill="none" stroke="#bababa" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

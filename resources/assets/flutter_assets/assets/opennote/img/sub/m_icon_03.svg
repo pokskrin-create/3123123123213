@@ -1,0 +1,28 @@
+<svg id="m_icon03" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35.052" height="41.302" viewBox="0 0 35.052 41.302">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_2185" data-name="사각형 2185" width="35.052" height="41.302" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_2798" data-name="그룹 2798" clip-path="url(#clip-path)">
+    <path id="패스_4287" data-name="패스 4287" d="M0,92.939v-34.2a2.036,2.036,0,0,1,1.981-2.087h26.67a2.036,2.036,0,0,1,1.981,2.087v34.2Z" transform="translate(0 -51.742)" fill="#cb8171"/>
+    <path id="패스_4288" data-name="패스 4288" d="M58.949,114.135V90.429h-24.7V123.9H57.38Z" transform="translate(-31.283 -82.598)" fill="#bfe2ff"/>
+    <path id="패스_4289" data-name="패스 4289" d="M84.721,3.713a3.226,3.226,0,1,0-6.371,0H72.5V8.636H90.573V3.713Z" transform="translate(-66.219 0.001)" fill="#ffc180"/>
+    <path id="패스_4290" data-name="패스 4290" d="M88.1,142.723a7.421,7.421,0,1,1,10.11,2.813,7.421,7.421,0,0,1-10.11-2.813" transform="translate(-79.597 -120.251)" fill="#fff"/>
+    <path id="패스_4291" data-name="패스 4291" d="M142.7,180.271h-1.949c-1.108,0-1.976-.659-1.976-1.5v-.933H140.2v.866a.934.934,0,0,0,.559.15H142.7a.931.931,0,0,0,.559-.151v-.625c0-.263-.38-.64-1.085-.821l-.962-.247c-1.306-.335-2.15-1.2-2.15-2.194V174c0-.841.868-1.5,1.976-1.5H142.7c1.108,0,1.976.659,1.976,1.5v.872h-1.417v-.805a.934.934,0,0,0-.559-.15h-1.662a.934.934,0,0,0-.559.15v.748c0,.263.38.64,1.085.821l.962.247c1.306.335,2.15,1.2,2.15,2.194v.692c0,.842-.868,1.5-1.976,1.5" transform="translate(-126.761 -157.564)" fill="#ffc180"/>
+    <rect id="사각형_2176" data-name="사각형 2176" width="1.417" height="1.535" transform="translate(14.455 14.111)" fill="#ffc180"/>
+    <rect id="사각형_2177" data-name="사각형 2177" width="1.417" height="1.535" transform="translate(14.455 21.998)" fill="#ffc180"/>
+    <path id="패스_4292" data-name="패스 4292" d="M87.142,360.1h0Z" transform="translate(-79.596 -328.915)" fill="#fff"/>
+    <rect id="사각형_2178" data-name="사각형 2178" width="10.409" height="1.417" transform="translate(7.546 30.474)" fill="#fff"/>
+    <path id="패스_4293" data-name="패스 4293" d="M87.142,392.567h0Z" transform="translate(-79.596 -358.572)" fill="#fff"/>
+    <rect id="사각형_2179" data-name="사각형 2179" width="5.886" height="1.417" transform="translate(7.546 33.286)" fill="#fff"/>
+    <path id="패스_4294" data-name="패스 4294" d="M224.151,264.8H209.305a1.066,1.066,0,0,0-1.088,1.043v17.328h17.022V265.838a1.066,1.066,0,0,0-1.088-1.043" transform="translate(-190.186 -241.865)" fill="#638fc0"/>
+    <rect id="사각형_2180" data-name="사각형 2180" width="1.137" height="12.671" transform="translate(23.111 28.631)" fill="#4469a0"/>
+    <rect id="사각형_2181" data-name="사각형 2181" width="1.137" height="12.671" transform="translate(28.825 28.631)" fill="#4469a0"/>
+    <rect id="사각형_2182" data-name="사각형 2182" width="17.032" height="1.137" transform="translate(18.02 32.272)" fill="#4469a0"/>
+    <rect id="사각형_2183" data-name="사각형 2183" width="11.373" height="1.137" transform="translate(18.02 36.523)" fill="#4469a0"/>
+    <path id="패스_4295" data-name="패스 4295" d="M208.217,330.626h0Z" transform="translate(-190.186 -301.995)" fill="#4469a0"/>
+    <rect id="사각형_2184" data-name="사각형 2184" width="17.022" height="1.137" transform="translate(18.03 28.062)" fill="#4469a0"/>
+    <path id="패스_4296" data-name="패스 4296" d="M79.7,96.359H68.76a.354.354,0,1,1,0-.708H79.7a.354.354,0,1,1,0,.708" transform="translate(-62.482 -87.368)" fill="#f9984c"/>
+  </g>
+</svg>

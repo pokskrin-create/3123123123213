@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="ico_benefit_50" transform="translate(-623 -384)">
+    <g id="타원_96" data-name="타원 96" transform="translate(623 384)" fill="none" stroke="#ddd" stroke-width="1">
+      <circle cx="25" cy="25" r="25" stroke="none"/>
+      <circle cx="25" cy="25" r="24.5" fill="none"/>
+    </g>
+    <g id="trophy_1_" data-name="trophy (1)" transform="translate(634 395)">
+      <path id="패스_5277" data-name="패스 5277" d="M8.3,2h9.2a2.3,2.3,0,0,1,2.3,2.3v9.2A6.9,6.9,0,1,1,6,13.505V4.3A2.3,2.3,0,0,1,8.3,2Z" transform="translate(0.602 0)" fill="#2f51b5"/>
+      <path id="패스_5278" data-name="패스 5278" d="M13.626,15H10.75v9.2h2.876Z" transform="translate(1.317 1.957)" fill="#2f51b5"/>
+      <path id="패스_5279" data-name="패스 5279" d="M20.177,7.876v2.876a1.726,1.726,0,0,1-1.726,1.726h-.575v-4.6ZM20.753,5H15V15.355h3.452a4.6,4.6,0,0,0,4.6-4.6V7.3a2.3,2.3,0,0,0-2.3-2.3Z" transform="translate(1.957 0.452)" fill="#2f51b5"/>
+      <path id="패스_5280" data-name="패스 5280" d="M7.177,7.876v4.6H6.6a1.726,1.726,0,0,1-1.726-1.726V7.876ZM10.054,5H4.3A2.3,2.3,0,0,0,2,7.3v3.452a4.6,4.6,0,0,0,4.6,4.6h3.452Z" transform="translate(0 0.452)" fill="#2f51b5"/>
+      <path id="패스_5281" data-name="패스 5281" d="M9.3,20.5h6.9a2.646,2.646,0,0,1,2.3,2.876H7A2.646,2.646,0,0,1,9.3,20.5Z" transform="translate(0.751 2.785)" fill="#2f51b5"/>
+    </g>
+  </g>
+</svg>

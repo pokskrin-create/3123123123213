@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="376" height="225" viewBox="0 0 376 225">
+  <g id="그룹_783" data-name="그룹 783" transform="translate(-320 -250)">
+    <rect id="사각형_874" data-name="사각형 874" width="376" height="225" rx="10" transform="translate(320 250)" fill="#f8f8fa"/>
+    <rect id="사각형_875" data-name="사각형 875" width="136" height="147" rx="10" transform="translate(539 267)" fill="#fff"/>
+    <g id="사각형_876" data-name="사각형 876" transform="translate(363 288)" fill="#ced3de" stroke="#c7c9d8" stroke-width="1">
+      <rect width="23" height="5" rx="2.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="22" height="4" rx="2" fill="none"/>
+    </g>
+    <g id="사각형_879" data-name="사각형 879" transform="translate(363 373)" fill="#edeff2" stroke="#ededf2" stroke-width="1">
+      <rect width="51" height="5" rx="2.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="50" height="4" rx="2" fill="none"/>
+    </g>
+    <g id="사각형_882" data-name="사각형 882" transform="translate(484 447)" fill="#edeff2" stroke="#edeff2" stroke-width="1">
+      <rect width="55" height="6" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="54" height="5" rx="2.5" fill="none"/>
+    </g>
+    <g id="사각형_881" data-name="사각형 881" transform="translate(418 373)" fill="#edeff2" stroke="#ededf2" stroke-width="1">
+      <rect width="51" height="5" rx="2.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="50" height="4" rx="2" fill="none"/>
+    </g>
+    <g id="사각형_880" data-name="사각형 880" transform="translate(363 387)" fill="#edeff2" stroke="#ededf2" stroke-width="1">
+      <rect width="80" height="5" rx="2.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="79" height="4" rx="2" fill="none"/>
+    </g>
+    <g id="사각형_877" data-name="사각형 877" transform="translate(396 288)" fill="#ced3de" stroke="#c7c9d8" stroke-width="1">
+      <rect width="8" height="5" rx="2.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="7" height="4" rx="2" fill="none"/>
+    </g>
+    <g id="타원_153" data-name="타원 153" transform="translate(362 330)" fill="#8e78f3" stroke="#826cf1" stroke-width="1">
+      <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+      <circle cx="12.5" cy="12.5" r="12" fill="none"/>
+    </g>
+    <g id="사각형_883" data-name="사각형 883" transform="translate(396 331)" fill="#c7c4f7" stroke="#c2bef6" stroke-width="1">
+      <rect width="22" height="22" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21" height="21" fill="none"/>
+    </g>
+    <g id="다각형_11" data-name="다각형 11" transform="translate(427 331)" fill="#d992ea">
+      <path d="M 24.14083862304688 21.5 L 0.8591617941856384 21.5 L 12.5 1.01212477684021 L 24.14083862304688 21.5 Z" stroke="none"/>
+      <path d="M 12.5 2.024259567260742 L 1.718328475952148 21 L 23.28167152404785 21 L 12.5 2.024259567260742 M 12.5 0 L 25 22 L 0 22 L 12.5 0 Z" stroke="none" fill="#d485e7"/>
+    </g>
+    <g id="Layer_3" data-name="Layer 3" transform="translate(200.22 33.235)">
+      <g id="그룹_760" data-name="그룹 760" transform="translate(358.92 259.765)">
+        <g id="그룹_752" data-name="그룹 752" transform="translate(33.359 74.444)">
+          <rect id="사각형_885" data-name="사각형 885" width="27.174" height="29.085" fill="#ecba9a"/>
+        </g>
+        <g id="그룹_753" data-name="그룹 753" transform="translate(0 91.619)">
+          <path id="패스_1825" data-name="패스 1825" d="M418.45,554.575c-.918,2.568-3.783,7.192-12.522,7.192-8.824,0-11.649-4.586-12.539-7.161a2.5,2.5,0,0,0-2.454-1.665c-21.47.788-29.6,10.484-31.953,13.742a28.561,28.561,0,0,0-3.9,6.718c-1.136,2.551-2.163,8.853-2.163,8.853H461.676a55.084,55.084,0,0,0-3.408-8.853,33.628,33.628,0,0,0-4.648-6.718s-11.247-12.965-32.736-13.743A2.486,2.486,0,0,0,418.45,554.575Z" transform="translate(-358.983 -552.938)" fill="#ffb51b"/>
+        </g>
+        <g id="그룹_754" data-name="그룹 754" transform="translate(11.844 5.781)">
+          <path id="패스_1826" data-name="패스 1826" d="M429.732,295.087c-16.944,0-30.352,17.7-31.039,34.769l-.478.066a4.239,4.239,0,0,0-3.614,4.762l1.3,9.51a4.241,4.241,0,0,0,4.762,3.615l1.037-.142c.056-.008.1-.03.159-.039,5.049,13.811,15.136,28.107,27.87,28.107s22.988-14.3,28.037-28.107c.055.01.269.032.326.039l1.032.142a4.23,4.23,0,0,0,4.752-3.615l1.282-9.51a4.271,4.271,0,0,0-3.656-4.762l-.563-.066C460.253,312.782,446.676,295.087,429.732,295.087Z" transform="translate(-394.561 -295.087)" fill="#ecba9a"/>
+        </g>
+        <g id="그룹_755" data-name="그룹 755" transform="translate(13.83 0)">
+          <path id="패스_1827" data-name="패스 1827" d="M464.143,325.9a2.114,2.114,0,0,0,2.332-2.1v-3.559c0-19.012-1.386-42.519-33.061-42.519-31.282,0-32.886,23.507-32.886,42.519V323.8a2.114,2.114,0,0,0,4.227,0v-5.155c17.062.634,34.025-8.373,37.317-20.421,0,12.682,10.8,20.421,20.175,20.421v5.034A2.2,2.2,0,0,0,464.143,325.9Z" transform="translate(-400.528 -277.72)" fill="#572a1a"/>
+        </g>
+        <g id="그룹_756" data-name="그룹 756" transform="translate(27.798 43.272)">
+          <circle id="타원_154" data-name="타원 154" cx="2.857" cy="2.857" r="2.857" transform="matrix(0.987, -0.16, 0.16, 0.987, 0, 0.913)" fill="#572a1a"/>
+        </g>
+        <g id="그룹_757" data-name="그룹 757" transform="translate(58.795 43.013)">
+          <circle id="타원_155" data-name="타원 155" cx="2.857" cy="2.857" r="2.857" transform="translate(0 4.04) rotate(-45)" fill="#572a1a"/>
+        </g>
+        <g id="그룹_758" data-name="그룹 758" transform="translate(29.606 58.761)">
+          <path id="패스_1828" data-name="패스 1828" d="M479.48,455.717c0,5.645-6.414,10.238-14.3,10.238s-14.3-4.593-14.3-10.238a1.484,1.484,0,1,0-2.967,0c0,7.281,7.745,13.2,17.265,13.2s17.265-5.924,17.265-13.2a1.484,1.484,0,1,0-2.967,0Z" transform="translate(-447.918 -454.233)" fill="#e37574"/>
+        </g>
+        <g id="그룹_759" data-name="그룹 759" transform="translate(43.938 49.602)">
+          <path id="패스_1829" data-name="패스 1829" d="M492.453,436.763a1.484,1.484,0,0,0,0,2.967,5.353,5.353,0,0,0,4.023-1.736c2.86-3.082,2.49-9.211,2.438-9.9a1.484,1.484,0,0,0-2.959.222c.106,1.411.029,5.846-1.654,7.66A2.363,2.363,0,0,1,492.453,436.763Z" transform="translate(-490.97 -426.722)" fill="#e37574"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

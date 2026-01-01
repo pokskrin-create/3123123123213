@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="ico_education_50" transform="translate(-636 -384)">
+    <g id="타원_97" data-name="타원 97" transform="translate(636 384)" fill="none" stroke="#ddd" stroke-width="1">
+      <circle cx="25" cy="25" r="25" stroke="none"/>
+      <circle cx="25" cy="25" r="24.5" fill="none"/>
+    </g>
+    <g id="pencil" transform="translate(646 393.921)">
+      <path id="패스_5330" data-name="패스 5330" d="M18.8,5.07,5.54,18.326l4.74,4.727L23.536,9.8Z" transform="translate(0.861 0.675)" fill="#2f51b5"/>
+      <path id="패스_5331" data-name="패스 5331" d="M4.974,16.029,4.09,18.693l2.932,2.932,2.691-.87L10.771,19.7l-4.74-4.727Z" transform="translate(0.369 4.031)" fill="#2f51b5" opacity="0.7"/>
+      <path id="패스_5332" data-name="패스 5332" d="M3,22.1l4.392-1.419L4.46,17.75Z" transform="translate(0 4.974)" fill="#2f51b5"/>
+      <path id="패스_5333" data-name="패스 5333" d="M22.068,4.8l-.951-.937a2.678,2.678,0,0,0-3.776,0l-1.9,1.888,4.74,4.74,1.888-1.9a2.678,2.678,0,0,0,0-3.789Z" transform="translate(4.217 0)" fill="#2f51b5" opacity="0.7"/>
+    </g>
+  </g>
+</svg>

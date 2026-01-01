@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.048" height="20.048" viewBox="0 0 20.048 20.048">
+  <g id="ico_time" transform="translate(0.048 0.048)">
+    <path id="패스_5141" data-name="패스 5141" d="M0,0H20V20H0Z" fill="none"/>
+    <g id="그룹_968" data-name="그룹 968" transform="translate(-3.25 -3)">
+      <path id="패스_5142" data-name="패스 5142" d="M5,13.594a7.594,7.594,0,1,1,7.594,7.594A7.594,7.594,0,0,1,5,13.594" transform="translate(0.064 0.17)" fill="none" stroke="#5a5ffa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="패스_5143" data-name="패스 5143" d="M12,10v3.254h2.17" transform="translate(0.657 0.509)" fill="none" stroke="#5a5ffa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="패스_5144" data-name="패스 5144" d="M7.233,4,4.25,6.17" fill="none" stroke="#5a5ffa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="패스_5145" data-name="패스 5145" d="M17,4l2.983,2.17" transform="translate(1.081)" fill="none" stroke="#5a5ffa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

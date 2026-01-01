@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8' />
+<link href="/plugin/fullcalendar-5.6.0/lib/main.css" rel="stylesheet" />
+<script src="/plugin/fullcalendar-5.6.0/lib/main.js"></script>
+<script src="/plugin/jquery/jquery-3.6.0.js"></script>
+<script src="/plugin/jquery/jquery-migrate-3.3.2.js"></script>
+
+<style>
+#calendar{
+	width:80%;
+	margin:20px auto;
+}
+</style>
+</head>
+<body>
+	<div id='calendar'></div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+	var calendarEl = document.getElementById('calendar');
+	var events = null;
+
+	events = [
+		{
+			title: 'Long Event',
+// 			start: new Date(y, m, d-5),
+// 			end: new Date(y, m, d-2),
+			color: 'red',
+			backgroundColor: 'yellow',
+			borderColor: 'blue',
+			textColor: 'green',
+			uid: 'event_0003',					 //--- Customize한 속성
+			flagCheckbox: true					 //--- Customize한 속성
+		}
+	];
+	var calendar = new FullCalendar.Calendar(calendarEl, {
+		googleCalendarApiKey: 'AIzaSyDYCby2TLEWQXXK4_9qjaU7eN1-AirgL4w'
+// 		, header: {
+// 			left: ''
+// 			, center: 'prev, title, next'
+// 			, right: 'month, basicWeek, agendaDay'
+// 		}
+		, headerToolbar: {
+			left: 'prev,next today'
+			, center: 'title'
+			, right: 'dayGridMonth,listYear'
+		}
+		, selectable: true
+// 		, selectHelper: true
+// 		, dayClick: function(date, allDay, jsEvent, view) {
+// 			window.alert("dayClick");
+// 			calendar.fullCalendar('unselect');
+// 		}
+// 		, dateClick: function() {
+// 			alert('a day has been clicked!');
+// 		}
+		, eventClick: function(calEvent, jsEvent, view) {
+			window.alert("eventClick");
+		}
+// 		, select: function(start, end, allDay) {
+// 			var title = prompt('Event Title:');
+// 			if (title) {
+// 				calendar.fullCalendar('renderEvent',
+// 					{
+// 						title: title,
+// 						start: start,
+// 						end: end,
+// 						allDay: allDay
+// 					},
+// 					true // make the event "stick"
+// 				);
+// 			}
+// 			calendar.fullCalendar('unselect');
+// 		}
+// 		, eventMouseover: function( event, jsEvent, view) {
+// 			window.alert("eventMouseover");
+// 		}
+// 		, eventMouseout: function( event, jsEvent, view) {
+// 			window.alert("eventMouseout");
+// 		}
+		, eventDrop: function( event, dayDelta, minuteDelta, allDay, revertFunc, jsEvent, ui, view ) {
+			window.alert("eventDrop");
+		}
+		, eventResize:function( event, dayDelta, minuteDelta, revertFunc, jsEvent, ui, view ) {
+			window.alert("eventResize");
+		}
+		, editable: true
+ 		, events: events
+ 		, firstDay: 0				//---	0. 일요일
+ 		, weekends: true
+ 		, allDaySlot: true
+ 		, allDayText: '종일'
+//  		, axisFormat : 'hh:mm tt'
+//  		, slotMinutes: 30
+//  		, defaultEventMinutes: 60
+//  		, firstHour: 9
+//  		, timeFormat: 'hh:mm tt'
+//  		, columnFormat: {month: 'ddd', week: 'M/d ddd', day: 'M/d dddd'}
+//  		, titleFormat: {month: 'yyyy년 M월', week: 'yyyy년 M월 d일{ — [yyyy년] [M월] d일 }', day: 'yyyy년 M월 d일 dddd'}
+//  		, monthNames: ['1월', '2월', '3월', '4월', '5월', '6월', '7월', '8월', '9월', '10월', '11월', '12월']
+//  		, monthNamesShort: ['1월', '2월', '3월', '4월', '5월', '6월', '7월', '8월', '9월', '10월', '11월', '12월']
+//  		, dayNames: ['일요일', '월요일', '화요일', '수요일', '목요일', '금요일', '토요일']
+//  		, dayNamesShort: ['일', '월', '화', '수', '목', '금', '토']
+//  		, buttonText: {today: '오늘', month: '월', week: '주', day: '일'}
+// 		, monthYearFormat: 'MMMM YYYY'
+// 		, ventLimit: true
+		, fixedWeekCount: false
+// 		, defaultView: 'month'
+// 		, dayNamesShort: ["S","M","T","W","T","F","S"]
+		, buttonText: { today : "오늘", month : "월별", week : "주별", day : "일별", list : "목록"}
+		, dayMaxEventRows: true // for all non-TimeGrid views
+		, views: {
+			timeGrid: {
+				dayMaxEventRows: 6 // adjust to 6 only for timeGridWeek/timeGridDay
+			}
+		}
+		, eventSources: [
+		{
+			googleCalendarId: 'twkim@bsgglobal.com',
+			className: '웹디자인기능사',
+			color: '#be5683', //rgb,#ffffff 등의 형식으로 할 수 있어요.
+			//textColor: 'black'
+		},
+		{
+			googleCalendarId: 'ko.south_korea#holiday@group.v.calendar.google.com',
+			className: 'koHolidays',
+			color: '#FF0000',
+			textColor: '#FFFFFF'
+		},
+// 		{
+// 			googleCalendarId: 'whchoi@bsgglobal.com',
+// 			className: '정보처리기능사',
+// 			color: '#204051',
+// 			//textColor: 'black'
+// 		},
+// 		{
+// 			googleCalendarId: '여기에 구글 캘린더 ID를 붙여넣기하시면 됩니다.',
+// 			className: '정보처리기사',
+// 			color: '#3b6978',
+// 			//textColor: 'black'
+// 		}
+		]
+	});
+	calendar.setOption('locale', 'kr');
+	calendar.render();
+	calendar.on('dateClick', function(info) {
+		alert('a day has been clicked!');
+		console.log('clicked on ' + info.dateStr);
+	});
+});
+
+// document.getElementById('my-next-button').addEventListener('click', function() {
+// 	calendar.next();
+// });
+</script>
+
+</body>
+</html>

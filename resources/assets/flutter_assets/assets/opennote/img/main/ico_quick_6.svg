@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="ico_global_50" transform="translate(-636 -711)">
+    <g id="타원_95" data-name="타원 95" transform="translate(636 711)" fill="none" stroke="#ddd" stroke-width="1">
+      <circle cx="25" cy="25" r="25" stroke="none"/>
+      <circle cx="25" cy="25" r="24.5" fill="none"/>
+    </g>
+    <g id="earth" transform="translate(645.489 720.5)">
+      <path id="패스_5376" data-name="패스 5376" d="M15.509,28.5a13,13,0,1,0-13-13A13,13,0,0,0,15.509,28.5Z" transform="translate(0)" fill="#5a5ffa" opacity="0.7"/>
+      <path id="패스_5377" data-name="패스 5377" d="M8.471,13.95a1.987,1.987,0,0,1,0-2.823,2.59,2.59,0,0,0,0-3.686L6.32,5.29A13.009,13.009,0,0,0,4.58,21.527l3.891-3.891a2.59,2.59,0,0,0,0-3.686Z" transform="translate(0 1.033)" fill="#5a5ffa"/>
+      <path id="패스_5378" data-name="패스 5378" d="M20.011,4.38l-7.8,7.8a2.617,2.617,0,0,0,0,3.686l3.467,3.453a2.576,2.576,0,0,0,3.672,0l2.083-2.069A2.59,2.59,0,0,1,25,17.164a12.325,12.325,0,0,0,.233-2.37A13,13,0,0,0,20.011,4.38Z" transform="translate(3.273 0.696)" fill="#5a5ffa"/>
+      <path id="패스_5379" data-name="패스 5379" d="M9.706,19.3,7.761,21.229a12.826,12.826,0,0,0,5.8,1.37,13.374,13.374,0,0,0,2.973-.356L13.557,19.27a2.74,2.74,0,0,0-3.85.027Z" transform="translate(1.928 5.883)" fill="#5a5ffa"/>
+    </g>
+  </g>
+</svg>

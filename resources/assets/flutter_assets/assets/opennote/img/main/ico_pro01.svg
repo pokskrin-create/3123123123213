@@ -1,0 +1,29 @@
+<svg id="ico_pro01" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="115" height="115" viewBox="0 0 115 115">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.008" y1="0.017" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#15b4f5"/>
+      <stop offset="0.435" stop-color="#5a5ffa"/>
+      <stop offset="1" stop-color="#140f5a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.008" y1="0.017" x2="0.938" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#15b4f5"/>
+      <stop offset="0.435" stop-color="#5a5ffa"/>
+      <stop offset="0.704" stop-color="#3939ae" stop-opacity="0.522"/>
+      <stop offset="1" stop-color="#140f5a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="타원_7" data-name="타원 7" fill="none" stroke="#ddd" stroke-width="1">
+    <circle cx="57.5" cy="57.5" r="57.5" stroke="none"/>
+    <circle cx="57.5" cy="57.5" r="57" fill="none"/>
+  </g>
+  <g id="그룹_933" data-name="그룹 933" transform="translate(35 26)">
+    <rect id="사각형_935" data-name="사각형 935" width="45" height="45" transform="translate(0 0)" fill="none"/>
+    <g id="그룹_986" data-name="그룹 986" transform="translate(3.38 6.408)">
+      <path id="합치기_4" data-name="합치기 4" d="M.853,32.951A.854.854,0,0,1,0,32.1V.851A.852.852,0,0,1,.853,0H37.78a.851.851,0,0,1,.853.851V32.1a.853.853,0,0,1-.853.854ZM1.7,31.246H36.929V1.7H1.7Zm11.323-5.837a8.893,8.893,0,1,1,6.289,2.6A8.837,8.837,0,0,1,13.028,25.409Zm1.2-11.372a7.2,7.2,0,1,0,5.084-2.1A7.2,7.2,0,0,0,14.233,14.037Zm4,9.54a.857.857,0,0,1-.62-.268l-2.651-2.822a.852.852,0,0,1,1.241-1.167l1.968,2.093,4.25-5.486a.852.852,0,1,1,1.347,1.043l-4.861,6.278a.861.861,0,0,1-.632.33ZM33.165,4.815a.853.853,0,1,1,0-1.705H34.3a.853.853,0,1,1,0,1.705Zm-3.924,0a.853.853,0,0,1,0-1.705h1.135a.853.853,0,1,1,0,1.705Zm-3.848,0a.853.853,0,0,1,0-1.705H26.53a.853.853,0,0,1,0,1.705Z" fill="url(#linear-gradient)"/>
+      <g id="그룹_951" data-name="그룹 951" transform="translate(3.197 3.111)">
+        <path id="선_12" data-name="선 12" d="M30.189.5H-.348A.852.852,0,0,1-1.2-.348.852.852,0,0,1-.348-1.2H30.189a.852.852,0,0,1,.852.852A.852.852,0,0,1,30.189.5Z" transform="translate(1.2 4.474)" fill="url(#linear-gradient-2)"/>
+        <path id="선_13" data-name="선 13" d="M13.346.5H-.348A.852.852,0,0,1-1.2-.348.852.852,0,0,1-.348-1.2H13.346a.852.852,0,0,1,.852.852A.852.852,0,0,1,13.346.5Z" transform="translate(1.2 1.2)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

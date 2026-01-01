@@ -1,0 +1,4 @@
+//var realGridJsLic = 'upVcPE+wPOksRHztag2HLt+UVTCvO3is+83EYTz6U/sUylexVdAGWYuauorjGFHixL85vbJo4gIPBt/cJy4f4VwFNOPXETgfEtw3QklkPTyoyLUNUoLb52+Mh/RsfSM8NTakk0yR9UeBDVUKkcDK4FauUGhjeun/0F/9996uLI0=';
+//var realPivotLic = 'upVcPE+wPOlpAyL7N9uhT0M/nBOseBrflwxYpzGZyYlPw2KsdpvTmY/vRpjDr+bG3wlHfk9imZOnNNImgVXI14uauorjGFHisQJ3+Phs5zWoyLUNUoLb52+Mh/RsfSM8NTakk0yR9Ue3qI47UMisa1auUGhjeun/0F/9996uLI0=';
+var realGridJsLic = 'upVcPE+wPOksRHztag2HLt+UVTCvO3is+83EYTz6U/sTXJR8Yw8Y0WXyjOMqbrgvr3+iyFPC2UsNv5NLrFgsXTLljmmH8ZYZSXOOjmtL2iFNTrpp0lKYxuJ8YRASSyZYMOORvKh5iQoI43Aw5h063Z19xU1mko+feaMbKwvrKcIViVc+AQAUFXQHkEFeJWIE';
+var realPivotLic = 'upVcPE+wPOlpAyL7N9uhT0M/nBOseBrflwxYpzGZyYm9cY8amGDkiMnVeQKUHJDjW2y71jtk+wsjsVaW+79bLpc3Pd+qdXX1gxIcHmvBQx4NZRrpuj47Af0Ok5RUrTOPOW+8Mh0BGMsxqFUaacuA8wOwr7sKW1U4WOF5T6PZ/A6svfGxNG4CGfumRlcQ8Ue0';

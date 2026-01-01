@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.5" height="15.75" viewBox="0 0 16.5 15.75">
+  <g id="Icon_ionic-md-list" data-name="Icon ionic-md-list" transform="translate(-5.625 -6.188)">
+    <g id="그룹_1277" data-name="그룹 1277" transform="translate(5.625 6.188)">
+      <path id="패스_2922" data-name="패스 2922" d="M5.625,19.688h12v2.25h-12Z" transform="translate(-5.625 -10.687)" fill="#bababa"/>
+      <path id="패스_2923" data-name="패스 2923" d="M5.625,12.938h15v2.25h-15Z" transform="translate(-5.625 -8.437)" fill="#bababa"/>
+      <path id="패스_2924" data-name="패스 2924" d="M5.625,6.188h16.5v2.25H5.625Z" transform="translate(-5.625 -6.188)" fill="#bababa"/>
+    </g>
+    <path id="패스_2925" data-name="패스 2925" d="M5.625,26.438h13.5v2.25H5.625Z" transform="translate(0 -6.75)" fill="#bababa"/>
+  </g>
+</svg>

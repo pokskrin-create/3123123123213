@@ -1,0 +1,158 @@
+@charset "UTF-8";
+/* realgrid custom styles */
+.alternate-row {
+  background: #f8f8f8;
+}
+
+.blue-column {
+  background: blue;
+}
+
+.yellow-column {
+  background: #ffff00
+}
+
+.orange-column {
+  background: #ff8b00;
+}
+
+.red-column {
+  background: #ff0000;
+}
+
+.error-column {
+  background: #ed5565;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.bold-cell {
+  font-weight: bold;
+  background: greenyellow;
+}
+
+.pink-cell {
+  font-weight: bold;
+  background: pink;
+}
+
+.center-column {
+  text-align: center;
+}
+
+.right-column {
+  text-align: right;
+}
+
+.left-column {
+  text-align: left;
+}
+
+.cursor-context-menu {
+  cursor: context-menu;
+}
+
+.cursor-help {
+  cursor: help;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.cursor-progress {
+  cursor: progress;
+}
+
+.cursor-wait {
+  cursor: wait;
+}
+
+.cursor-cell {
+  cursor: cell;
+}
+
+.cursor-crosshair {
+  cursor: crosshair;
+}
+
+.cursor-text {
+  cursor: text;
+}
+
+.cursor-vertical-text {
+  cursor: vertical-text;
+}
+
+.cursor-alias {
+  cursor: alias;
+}
+
+.cursor-copy {
+  cursor: copy;
+}
+
+.cursor-move {
+  cursor: move;
+}
+
+.cursor-no-drop {
+  cursor: no-drop;
+}
+
+.cursor-not-allowed {
+  cursor: not-allowed;
+}
+
+.cursor-grab {
+  cursor: grab;
+}
+
+.cursor-grabbing {
+  cursor: grabbing;
+}
+
+.cursor-zoom-in {
+  cursor: zoom-in;
+}
+
+.cursor-zoom-out {
+  cursor: zoom-out;
+}
+
+.test-style {
+  background: linear-gradient(to right, #96f58f, red);
+}
+
+.red-bar-solid .rg-bar-renderer-bar {
+  background: #ff0000;
+}
+
+.green-bar-solid .rg-bar-renderer-bar-right {
+  background: #00ff00;
+}
+
+.blue-bar-solid .rg-bar-renderer-bar-top {
+  background: #0000ff;
+}
+
+.yellow-bar-solid .rg-bar-renderer-bar-bottom {
+  background: #ffff00;
+}
+
+.green-hidden span {
+  right: 12% !important;
+  transform: translate(0%, -50%) !important;
+  display: none !important;
+}
+
+.multi-line-pre {
+  white-space: pre;
+}
+
+.multi-line-pre-wrap{
+  white-space: pre-wrap;
+}
+

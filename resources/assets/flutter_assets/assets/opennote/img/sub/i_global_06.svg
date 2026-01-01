@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="47" viewBox="0 0 54 47">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_746" data-name="사각형 746" width="54" height="47" transform="translate(-0.345 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="i_global_06" transform="translate(0.345)">
+    <g id="그룹_676" data-name="그룹 676" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="패스_1780" data-name="패스 1780" d="M55.422,9H51v5.891h9.257C60.257,11.525,58.092,9,55.422,9" transform="translate(-8.081 -1.426)" fill="#e9eaeb"/>
+      <path id="패스_1782" data-name="패스 1782" d="M52.891,14.891h6.732C59.623,11.525,57.459,9,54.788,9H47" transform="translate(-7.447 -1.426)" fill="none" stroke="#2a5082" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="패스_1783" data-name="패스 1783" d="M50.992,9a4.842,4.842,0,0,0-4.746,4.942V42.571a5.4,5.4,0,0,1-5.178,5.141H21V13.837A5.014,5.014,0,0,1,26.05,9H50.992Z" transform="translate(-3.327 -1.426)" fill="#fff"/>
+      <path id="패스_1784" data-name="패스 1784" d="M50.992,9a4.842,4.842,0,0,0-4.746,4.942V42.571a5.4,5.4,0,0,1-5.178,5.141H21V13.837A5.014,5.014,0,0,1,26.05,9H50.992Z" transform="translate(-3.327 -1.426)" fill="none" stroke="#2a5082" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="패스_1785" data-name="패스 1785" d="M35.163,49H13.777c.741,2.525,3.209,5.049,5.449,5.049h20.6c-2.24,0-4.119-2.525-4.668-5.049" transform="translate(-2.183 -7.764)" fill="#a3d4ff"/>
+      <path id="패스_1786" data-name="패스 1786" d="M35.163,49H13.777c.741,2.525,3.209,5.049,5.449,5.049h20.6C37.591,54.049,35.712,51.525,35.163,49Z" transform="translate(-2.183 -7.764)" fill="none" stroke="#2a5082" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="선_490" data-name="선 490" x2="15" transform="translate(22.655 16)" fill="none" stroke="#2a5082" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="선_491" data-name="선 491" x2="15" transform="translate(22.655 19)" fill="none" stroke="#2a5082" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="선_492" data-name="선 492" x2="15" transform="translate(22.655 23)" fill="none" stroke="#2a5082" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="선_493" data-name="선 493" x2="4" transform="translate(33.655 36)" fill="none" stroke="#2a5082" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="패스_1787" data-name="패스 1787" d="M26.748,37.214s-.483-4.053-2.527-6.1L7.966,14.861A2.526,2.526,0,1,0,4.4,18.432L20.65,34.687c2.045,2.044,6.1,2.527,6.1,2.527" transform="translate(-0.571 -2.23)" fill="#a3d4ff"/>
+      <path id="패스_1788" data-name="패스 1788" d="M26.748,37.214s-.483-4.053-2.527-6.1L7.966,14.861A2.526,2.526,0,1,0,4.4,18.432L20.65,34.687C22.695,36.731,26.748,37.214,26.748,37.214Z" transform="translate(-0.571 -2.23)" fill="none" stroke="#2a5082" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="선_494" data-name="선 494" x1="7.736" y1="7.736" transform="translate(1.635 18.774)" fill="none" stroke="#2a5082" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="선_495" data-name="선 495" y1="1.785" x2="1.785" transform="translate(4.015 19.369)" fill="none" stroke="#2a5082" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="선_496" data-name="선 496" x2="1.19" y2="1.19" transform="translate(26.033 34.841)" fill="none" stroke="#2a5082" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="선_497" data-name="선 497" y1="3.571" x2="3.571" transform="translate(20.082 28.89)" fill="none" stroke="#2a5082" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="선_498" data-name="선 498" y1="3.571" x2="3.571" transform="translate(6.395 15.203)" fill="none" stroke="#2a5082" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="선_499" data-name="선 499" x2="2" transform="translate(29.655 36)" fill="none" stroke="#2a5082" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

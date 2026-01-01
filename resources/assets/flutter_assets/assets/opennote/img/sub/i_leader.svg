@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28.093" height="26.774" viewBox="0 0 28.093 26.774">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.16" x2="0.5" y2="-0.057" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9ac3d"/>
+      <stop offset="1" stop-color="#ffe885"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="1.321" y2="-0.065" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="그룹_2731" data-name="그룹 2731" transform="translate(-1199 -2131)">
+    <g id="그룹_865" data-name="그룹 865" transform="translate(916.4 1882.326)">
+      <path id="패스_2260" data-name="패스 2260" d="M291.649,253.476H282.6l4.147-4.8h1.208Z" fill="#8c3821" fill-rule="evenodd"/>
+      <path id="패스_2261" data-name="패스 2261" d="M287.433,269.3l11.66,6.148,11.6-6.148V248.674h-23.26Z" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+      <path id="패스_2262" data-name="패스 2262" d="M289.85,267.783l10.5,4.782,10.437-4.782v-19.1H289.85Z" transform="translate(-1.253)" fill="#b55739" fill-rule="evenodd"/>
+      <path id="패스_2263" data-name="패스 2263" d="M290.693,267.274l9.657,4.313,9.593-4.313v-18.6h-19.25Z" transform="translate(-1.253 0)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+    </g>
+    <text id="리더" transform="translate(1215 2146)" fill="#b55739" font-size="9" font-family="NotoSansKR-Bold, Noto Sans KR" font-weight="700" letter-spacing="-0.075em"><tspan x="-7.942" y="0">리더</tspan></text>
+  </g>
+</svg>

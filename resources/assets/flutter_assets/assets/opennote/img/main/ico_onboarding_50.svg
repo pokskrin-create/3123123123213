@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="ico_onboarding_50" transform="translate(-636 -711)">
+    <g id="타원_98" data-name="타원 98" transform="translate(636 711)" fill="none" stroke="#ddd" stroke-width="1">
+      <circle cx="25" cy="25" r="25" stroke="none"/>
+      <circle cx="25" cy="25" r="24.5" fill="none"/>
+    </g>
+    <g id="administrator" transform="translate(645.54 721)">
+      <path id="패스_5386" data-name="패스 5386" d="M11.723,10h3.758a6.263,6.263,0,0,1,6.263,6.263v7.516a2.505,2.505,0,0,1-2.505,2.505H7.965A2.505,2.505,0,0,1,5.46,23.779V16.263A6.263,6.263,0,0,1,11.723,10Z" transform="translate(0 2.274)" fill="#2f51b5" opacity="0.7"/>
+      <path id="패스_5387" data-name="패스 5387" d="M13.01,11.021A5.01,5.01,0,1,0,8,6.01,5.011,5.011,0,0,0,13.01,11.021Z" transform="translate(0.642 0)" fill="#2f51b5" opacity="0.7"/>
+      <path id="합치기_16" data-name="합치기 16" d="M4.061,11.249V9.709a4.385,4.385,0,0,1-1.178-.687l-1.317.76L0,7.072l1.321-.764a4.409,4.409,0,0,1,.005-1.4L.02,4.157,1.585,1.443l1.322.763a4.4,4.4,0,0,1,1.2-.687V0H7.24V1.538a4.375,4.375,0,0,1,1.195.7l1.311-.759L11.314,4.19l-1.328.767a4.4,4.4,0,0,1-.009,1.394l1.314.758L9.726,9.822l-1.34-.771a4.4,4.4,0,0,1-1.2.679v1.52Z" transform="translate(14.89 17.295)" fill="#2f51b5"/>
+      <path id="패스_5389" data-name="패스 5389" d="M17.879,20.758A1.879,1.879,0,1,0,16,18.879,1.879,1.879,0,0,0,17.879,20.758Z" transform="translate(2.663 4.042)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

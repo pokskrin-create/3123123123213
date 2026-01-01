@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="ico_organization_50" transform="translate(-633 -381)">
+    <g id="타원_91" data-name="타원 91" transform="translate(633 381)" fill="none" stroke="#ddd" stroke-width="1">
+      <circle cx="25" cy="25" r="25" stroke="none"/>
+      <circle cx="25" cy="25" r="24.5" fill="none"/>
+    </g>
+    <g id="organization_1_" data-name="organization (1)" transform="translate(643.5 392)">
+      <path id="패스_5380" data-name="패스 5380" d="M10.75,18.341V7H13.9V18.341Z" transform="translate(2.146 1.301)" fill="#15b4f5" fill-rule="evenodd" opacity="0.7"/>
+      <path id="패스_5381" data-name="패스 5381" d="M6.9,12.91v4.713H3.75V11.965A2.205,2.205,0,0,1,5.955,9.76H22.337a2.205,2.205,0,0,1,2.205,2.205v5.658h-3.15V12.91Z" transform="translate(0.325 2.018)" fill="#15b4f5" fill-rule="evenodd" opacity="0.7"/>
+      <path id="패스_5382" data-name="패스 5382" d="M7.751,16H3.55A1.05,1.05,0,0,0,2.5,17.05v4.2A1.05,1.05,0,0,0,3.55,22.3h4.2a1.05,1.05,0,0,0,1.05-1.05v-4.2A1.05,1.05,0,0,0,7.751,16Z" transform="translate(0 3.642)" fill="#15b4f5"/>
+      <path id="패스_5383" data-name="패스 5383" d="M14.751,16h-4.2A1.05,1.05,0,0,0,9.5,17.05v4.2a1.05,1.05,0,0,0,1.05,1.05h4.2a1.05,1.05,0,0,0,1.05-1.05v-4.2A1.05,1.05,0,0,0,14.751,16Z" transform="translate(1.821 3.642)" fill="#15b4f5"/>
+      <path id="패스_5384" data-name="패스 5384" d="M14.751,2h-4.2A1.05,1.05,0,0,0,9.5,3.05v4.2A1.05,1.05,0,0,0,10.55,8.3h4.2a1.05,1.05,0,0,0,1.05-1.05V3.05A1.05,1.05,0,0,0,14.751,2Z" transform="translate(1.821)" fill="#15b4f5"/>
+      <path id="패스_5385" data-name="패스 5385" d="M21.751,16h-4.2a1.05,1.05,0,0,0-1.05,1.05v4.2a1.05,1.05,0,0,0,1.05,1.05h4.2a1.05,1.05,0,0,0,1.05-1.05v-4.2A1.05,1.05,0,0,0,21.751,16Z" transform="translate(3.642 3.642)" fill="#15b4f5"/>
+    </g>
+  </g>
+</svg>

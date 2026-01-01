@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="ico_evalu_50" transform="translate(-633 -711)">
+    <g id="타원_92" data-name="타원 92" transform="translate(633 711)" fill="none" stroke="#ddd" stroke-width="1">
+      <circle cx="25" cy="25" r="25" stroke="none"/>
+      <circle cx="25" cy="25" r="24.5" fill="none"/>
+    </g>
+    <g id="to-do_2_" data-name="to-do (2)" transform="translate(643 720)">
+      <path id="패스_5325" data-name="패스 5325" d="M22.936,2H6.705A2.705,2.705,0,0,0,4,4.705V26.346a2.705,2.705,0,0,0,2.705,2.705h16.23a2.705,2.705,0,0,0,2.705-2.705V4.705A2.705,2.705,0,0,0,22.936,2Z" transform="translate(0 0)" fill="#15b4f5" opacity="0.7"/>
+      <path id="패스_5326" data-name="패스 5326" d="M12.073,8h-5.4A.676.676,0,0,0,6,8.676v1.353a.676.676,0,0,0,.676.676h5.4a.676.676,0,0,0,.676-.676V8.676A.676.676,0,0,0,12.073,8Z" transform="translate(0.705 2.115)" fill="#fff" opacity="0.7"/>
+      <path id="패스_5327" data-name="패스 5327" d="M15.954,9.394l3.1-3.1,1.913,1.913L15.954,13.22,12.293,9.558l1.913-1.913Z" transform="translate(2.924 1.513)" fill="#fff" fill-rule="evenodd"/>
+      <path id="패스_5328" data-name="패스 5328" d="M15.954,15.394l3.1-3.1,1.913,1.913L15.954,19.22l-3.661-3.661,1.913-1.913Z" transform="translate(2.924 3.629)" fill="#fff" fill-rule="evenodd"/>
+      <path id="패스_5329" data-name="패스 5329" d="M12.083,14h-5.4a.676.676,0,0,0-.676.676v1.393a.676.676,0,0,0,.676.676h5.4a.676.676,0,0,0,.676-.676V14.676A.676.676,0,0,0,12.083,14Z" transform="translate(0.709 4.23)" fill="#fff" opacity="0.7"/>
+    </g>
+  </g>
+</svg>

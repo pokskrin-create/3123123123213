@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="ico_otp_28" transform="translate(3.5 19.718)">
+    <circle id="타원_99" data-name="타원 99" cx="14" cy="14" r="14" transform="translate(-3.5 -19.718)" fill="#8290a0"/>
+    <g id="그룹_1199" data-name="그룹 1199" transform="translate(-1.5 -17.718)">
+      <path id="패스_5490" data-name="패스 5490" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="패스_5491" data-name="패스 5491" d="M12,10v4" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="패스_5492" data-name="패스 5492" d="M10,13l4-2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="패스_5493" data-name="패스 5493" d="M10,11l4,2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="패스_5494" data-name="패스 5494" d="M5,10v4" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="패스_5495" data-name="패스 5495" d="M3,13l4-2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="패스_5496" data-name="패스 5496" d="M3,11l4,2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="패스_5497" data-name="패스 5497" d="M19,10v4" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="패스_5498" data-name="패스 5498" d="M17,13l4-2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="패스_5499" data-name="패스 5499" d="M17,11l4,2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
